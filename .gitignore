@@ -1,2 +1,4 @@
 frontend/Game/dist/
 frontend/Game/node_modules/
+backend/GameBackend/bin/
+backend/GameBackend/obj/
