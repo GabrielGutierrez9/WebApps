@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjZpr+r3/Y0=",
+  "success": true,
+  "projectFilePath": "/Users/gabrielgutierrez/apps/WebApps/backend/GameBackend/GameBackend.csproj",
+  "expectedPackageFiles": [
+    "/Users/gabrielgutierrez/.nuget/packages/microsoft.aspnetcore.openapi/9.0.10/microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "/Users/gabrielgutierrez/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
